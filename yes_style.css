@@ -8,17 +8,13 @@ body {
     font-family:"Lucida Console",monospace;
 }
 
-.h1{
-    font-color:#800020;
-}
-
 .container {
     text-align: center;
+    color: #800020;
 }
 
 .header_text {
     font-size: 3em;
-    color: #800020;
 }
 
 .gif_container img {
