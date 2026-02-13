@@ -8,6 +8,10 @@ body {
     font-family:"Lucida Console",monospace;
 }
 
+.h1{
+    font-color:#800020;
+}
+
 .container {
     text-align: center;
 }
