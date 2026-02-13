@@ -14,15 +14,8 @@ body {
     text-align: center;
   }
 
-.monsieur-la-doulaise-regular {
-  font-family: "Monsieur La Doulaise", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
-
   h1 {
-     font-family: cursive;
+     font-family:"Lucida Console", "Courier New", monospace;
     font-size: 4rem;
     color: #d32f2f;
   }
