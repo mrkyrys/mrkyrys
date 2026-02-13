@@ -13,6 +13,7 @@ body {
 }
 
 .header_text {
+    font-family: "Comic Sans MS", cursive;
     font-size: 3em;
     color: #800020;
 }
